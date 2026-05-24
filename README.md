@@ -18,9 +18,11 @@ This skill teaches any AI agent (Claude Code, Codex, Cursor, GitHub Copilot, etc
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+🇨🇳 [中文文档](README_CN.md)
 
 *A 30-second video showing: topic → AI generates Markdown → Slidev renders slides → PDF export*
+
+**Video coming soon — stay tuned!**
 
 ## Quick Start
 

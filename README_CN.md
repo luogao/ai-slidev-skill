@@ -2,6 +2,8 @@
 
 > 教 AI 用 [Slidev](https://github.com/slidevjs/slidev) 自动生成专业演示文稿的 Agent Skill
 
+[English](README.md) | 中文
+
 [![Skills](https://img.shields.io/badge/skills.sh-ai--slidev-blue)](https://www.skills.sh/luogao/ai-slidev-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 

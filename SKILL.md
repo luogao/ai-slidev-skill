@@ -248,6 +248,7 @@ npm run export -- --format png
 8. **Export requires Playwright** — if `npm run export` fails: `npx playwright install chromium`
 9. **Chinese/Unicode support** — add `fonts: sans: ['Noto Sans SC']` in frontmatter if needed
 10. **Global components** — Vue components in `components/` folder are auto-registered
+11. **No nested code blocks** — Never use ` ``` ` inside another fenced code block (e.g. ` ````markdown `). Slidev does not support nested fences. If you need to show code examples on a code slide, use screenshots, HTML `<pre><code>` entities, or put each code snippet in a separate non-nested fenced block.
 
 ---
 
