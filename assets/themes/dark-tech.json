@@ -1,0 +1,17 @@
+{
+  "name": "ai-slidev-dark-tech",
+  "description": "Dark tech theme for developer presentations. Dark background with gradient accents.",
+  "overrides": {
+    "colors": {
+      "primary": "#3cffd0",
+      "secondary": "#FFB800",
+      "background": "#1d1d1f"
+    }
+  },
+  "frontmatter": {
+    "theme": "default",
+    "css": "unocss",
+    "transition": "slide-up"
+  },
+  "style": "<style>\n:root {\n  --slidev-theme-primary: #3cffd0;\n  --slidev-theme-secondary: #FFB800;\n}\n\n.slidev-layout {\n  background: #1d1d1f;\n  color: #ffffff;\n}\n\n.slidev-layout h1 {\n  color: #3cffd0;\n}\n\n.slidev-layout h2 {\n  color: #FFB800;\n}\n\n.slidev-layout code {\n  background: rgba(60, 255, 208, 0.1);\n  color: #3cffd0;\n}\n</style>"
+}

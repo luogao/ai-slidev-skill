@@ -1,0 +1,18 @@
+{
+  "name": "ai-slidev-corporate",
+  "description": "Clean corporate theme for business presentations. Light background, professional colors.",
+  "overrides": {
+    "colors": {
+      "primary": "#1E2761",
+      "secondary": "#CADCFC",
+      "accent": "#F96167",
+      "background": "#FFFFFF"
+    }
+  },
+  "frontmatter": {
+    "theme": "seriph",
+    "css": "unocss",
+    "transition": "fade"
+  },
+  "style": "<style>\n:root {\n  --slidev-theme-primary: #1E2761;\n}\n\n.slidev-layout h1 {\n  color: #1E2761;\n  font-weight: 700;\n}\n\n.slidev-layout .accent {\n  color: #F96167;\n}\n</style>"
+}
